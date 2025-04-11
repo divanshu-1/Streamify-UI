@@ -99,7 +99,7 @@ Pull requests are welcome! You can:
 
 To contribute:
 ```bash
-git clone https://github.com/your-username/streamify-ui.git
+git clone https://github.com/divanshu-1/streamify-ui.git
 ```
 
 ---
