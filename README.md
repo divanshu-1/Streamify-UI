@@ -2,7 +2,7 @@
 
 A sleek, interactive, and fully responsive **Spotify-inspired music player UI**, built with **HTML**, **CSS**, and **JavaScript**. Designed to mimic the modern aesthetics of a music streaming platform, `streamify-ui` features clean layout, animated music cards, and a sticky music control bar to showcase your front-end skills.
 
-![Streamify UI Preview](./assets/preview.png)
+
 
 ---
 
