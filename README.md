@@ -7,7 +7,7 @@ A sleek, interactive, and fully responsive **Spotify-inspired music player UI**,
 ---
 
 ## 🚀 Live Demo
-[Streamify-UI]https://divanshu-1.github.io/Streamify-UI/
+[Streamify-UI](https://divanshu-1.github.io/Streamify-UI/)
 
 ---
 
